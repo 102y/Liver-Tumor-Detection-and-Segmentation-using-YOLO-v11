@@ -62,7 +62,3 @@ The "Liver Tumor Detection and Segmentation using YOLO v11" project is a powerfu
 
 Dataset link 
 https://universe.roboflow.com/brain-tumor-yhoga/liver-cuy
-نسخ الكو
-نسخ الكو
-نسخ الكو
-نسخ الك
